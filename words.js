@@ -3,7 +3,7 @@ const words = [
   { word: "в_р_бей", answers: ["о", "о"], fullWord: "воробей" },
   { word: "Б_л_русь", answers: ["е", "а"], fullWord: "Беларусь" },
   { word: "сах_р", answers: ["а"], fullWord: "сахар" },
-  /*  { word: "в_гон", answers: ["а"], fullWord: "вагон" },
+  { word: "в_гон", answers: ["а"], fullWord: "вагон" },
   { word: "в_рона", answers: ["о"], fullWord: "ворона" },
   { word: "в_скр_сен_е", answers: ["о", "е", "ь"], fullWord: "воскресенье" },
   { word: "вч_ра", answers: ["е"], fullWord: "вчера" },
@@ -44,5 +44,5 @@ const words = [
   { word: "х_р_шо", answers: ["о", "о"], fullWord: "хорошо" },
   { word: "ябл_к_", answers: ["о", "о"], fullWord: "яблоко" },
   { word: "яг_да", answers: ["о"], fullWord: "ягода" },
-  { word: "_зык", answers: ["я"], fullWord: "язык" },*/
+  { word: "_зык", answers: ["я"], fullWord: "язык" },
 ];
